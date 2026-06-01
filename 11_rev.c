@@ -1,5 +1,10 @@
 #include <stdio.h>
 
+/*
+    * Reverse the numbers of a given integer.
+    * eg, 1234567 -> returns 7654321
+*/
+
 int main()
 {
 
